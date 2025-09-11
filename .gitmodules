@@ -1,0 +1,3 @@
+[submodule "evaluation-showcase"]
+	path = evaluation-showcase
+	url = https://github.com/anonartifactbase/naturaledit-evaluation-showcase.git
