@@ -1,18 +1,16 @@
-# NaturalEdit
+# EditHelper
 
-NaturalEdit is a Visual Studio Code extension that provides intelligent code summarization and interactive prompt-based features directly within the editor. It leverages a modern React-based webview UI for a seamless and visually consistent experience with the VS Code theme.
+EditHelper is a VS Code extension that lets developers modify code directly through its natural language representation. It provides a simple and seamless way to interact with code by combining summaries, direct instructions, and synchronized updates.
 
 ## Features
 
-- Summarize selected code with concise, detailed, or bullet-pointed explanations.
-- Interactive prompt panel for custom code analysis and editing.
-- Fully theme-aware UI, matching your current VS Code color scheme.
-- Fast, modern frontend built with React and Vite.
+- **Code Summarization:** Generate natural language summaries for any selected code block.
+- **Direct Edit Instructions:** Write plain-text instructions to suggest modifications, which are applied back to the code.
+- **Summary-Based Editing:** Modify summaries themselves, and have changes automatically reflected in the code.
 
 ## Getting Started
 
-1. Install the extension from the VSIX package or the VS Code Marketplace.
-2. Select code in the editor and use the NaturalEdit commands from the command palette or UI panel.
+Install the extension from the VSIX package or the VS Code Marketplace (not published yet).
 
 ## Requirements
 
@@ -27,7 +25,3 @@ NaturalEdit is a Visual Studio Code extension that provides intelligent code sum
 ### 1.0.0
 
 - Initial release with code summarization and prompt features.
-
----
-
-**Enjoy using NaturalEdit to supercharge your code understanding and productivity!**

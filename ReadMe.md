@@ -9,7 +9,7 @@ This repository contains the anonymized replication package for the paper "Natur
   Source code for the Baseline VS Code extension used in the user study.
 
 - **`evaluation-showcase/`**
-  Source code for the technical evaluation showcase website, including the interface used to assist expert ratings and the interactive demo for evaluating individual data points in the benchmark. Deployed at [https://anonartifactbase.github.io/naturaledit-evaluation-showcase/](https://anonartifactbase.github.io/naturaledit-evaluation-showcase/).
+  Source code for the technical evaluation showcase website, including the interface used to assist expert ratings and the interactive demo for evaluating individual data points in the benchmark. **Deployed at [https://anonartifactbase.github.io/naturaledit-evaluation-showcase/](https://anonartifactbase.github.io/naturaledit-evaluation-showcase/), please take a look!**.
 
 - **`benchmark-results/`**  
   Materials for the benchmark evaluation, including all model outputs and evaluation scripts.
@@ -33,7 +33,7 @@ This repository contains the anonymized replication package for the paper "Natur
     - `visualization.py`: Script to visualize expert ratings.
 
 - **`study-tasks/`**  
-  Programming tasks used in the study. Deployed in CodeSandbox:
+  Programming tasks used in the study. Deployed in CodeSandbox, where you can play with the tasks and the extensions:
   1. Finance Dashboard: https://codesandbox.io/p/devbox/6hf2dg
   2. MVP Predictor: https://codesandbox.io/p/devbox/3h6s9l
   - `buggy-code/`: Initial code given to participants.
